@@ -117,6 +117,18 @@ Everything the app needs — code, data and media — ships in this folder. Ther
 
 \---
 
+## 📷 Screenshots and media examples
+
+<img width="662" height="652" alt="image" src="https://github.com/user-attachments/assets/68467fee-16c4-4726-bdbe-5aca2a82a99c" />
+<img width="657" height="546" alt="image" src="https://github.com/user-attachments/assets/f01b61cd-e887-420f-a07f-39ed4e4d6002" />
+<img width="645" height="656" alt="image" src="https://github.com/user-attachments/assets/fad57523-5b01-4fda-b7a1-a058e39aad9c" />
+<img width="648" height="612" alt="image" src="https://github.com/user-attachments/assets/f9b7749e-0017-4c00-bbb4-6438ad95cbd1" />
+<img width="603" height="344" alt="image" src="https://github.com/user-attachments/assets/f3945468-658d-4e1e-92d7-3c07e2f7f8d7" />
+<img width="613" height="336" alt="image" src="https://github.com/user-attachments/assets/87a9db44-9c67-46f1-a443-f072ef8d7ca2" />
+<img width="546" height="573" alt="image" src="https://github.com/user-attachments/assets/6505444b-3d47-4e70-b490-d1c316a4c46f" />
+
+\---
+
 ## 🙏 Credits \& data sources
 
 * **Letter \& IPA audio samples:** Wikimedia Commons (CC BY-SA).
