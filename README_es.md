@@ -6,11 +6,13 @@
 
 GeoReader te enseña a leer **carteles reales** escritos en **cirílico, griego, hebreo y georgiano** con letreros generados en Python, audio nativo y un cuestionario integrado — todo en un único archivo HTML que funciona sin conexión en tu navegador.
 
-!\[Licencia: AGPL-3.0](https://img.shields.io/badge/Licencia-AGPL--3.0-blue)
-!\[Versión](https://img.shields.io/badge/versión-1.0-blueviolet)
-!\[Plataforma: navegador](https://img.shields.io/badge/plataforma-navegador-4caf50)
-!\[Sin compilación](https://img.shields.io/badge/compilación-nula-brightgreen)
-!\[Funciona sin conexión](https://img.shields.io/badge/sin--conexión-sí-success)
+![Licencia: AGPL-3.0](https://img.shields.io/badge/Licencia-AGPL--3.0-blue)
+![Versión](https://img.shields.io/badge/versión-1.0-blueviolet)
+![Plataforma: navegador](https://img.shields.io/badge/plataforma-navegador-4caf50)
+![Sin compilación](https://img.shields.io/badge/compilación-nula-brightgreen)
+![Funciona sin conexión](https://img.shields.io/badge/sin--conexión-sí-success)
+
+### [▶ Jugar en línea — sin descargas](https://dasweissekaninchen.github.io/GeoReader/)
 
 **Gratis · Sin anuncios · Sin cuenta · Sin instalación · Tu progreso se guarda en tu dispositivo**
 
@@ -18,7 +20,7 @@ GeoReader te enseña a leer **carteles reales** escritos en **cirílico, griego,
 
 </div>
 
-\---
+---
 
 ## ✨ ¿Qué es GeoReader?
 
@@ -33,23 +35,31 @@ En lugar de memorizar tarjetas abstractas, aprendes con:
 
 Todo se **guarda localmente** en tu navegador — sin cuenta, sin seguimiento, sin anuncios. La interfaz de la app está en inglés; los alfabetos que aprenderás, por supuesto, no. 😉
 
-\---
+---
 
 ## 🚀 Inicio rápido
+
+Hay dos formas de usar GeoReader:
+
+### Opción 1 — Jugar en línea (más rápido)
+
+Solo abre **[dasweissekaninchen.github.io/GeoReader](https://dasweissekaninchen.github.io/GeoReader/)** — sin descargas, sin instalación, funciona directamente en tu navegador. El progreso se guarda localmente en ese navegador/dispositivo.
+
+### Opción 2 — Descargar y ejecutar sin conexión
 
 Sin instalación, sin compilación, sin servidor. Solo:
 
 1. Descarga el proyecto (o clona el repositorio).
 2. **Haz doble clic en `GeoReader.html`**.
 
-Eso es todo — la app se abre directamente en tu navegador y funciona completamente sin conexión desde `file://`.
+Eso es todo — la app se abre directamente en tu navegador y funciona completamente sin conexión desde `file://`, sin necesidad de internet.
 
-> \[!IMPORTANT]
-> `GeoReader.html` debe permanecer en la misma carpeta que la carpeta `assets/` — el audio y las imágenes se cargan desde ahí.
+> [!IMPORTANT]
+> Si lo ejecutas sin conexión, `GeoReader.html` debe permanecer en la misma carpeta que la carpeta `assets/` — el audio y las imágenes se cargan desde ahí.
 >
-> \*\*Demora en la primera apertura (Windows):\*\* los archivos HTML con bloques `<script>` grandes, descargados desde un `.zip`, pueden activar un escaneo único de \*\*Windows Defender / SmartScreen\*\*. \*\*No es un bloqueo\*\* — la primera apertura solo tarda unos segundos más. Las siguientes aperturas son instantáneas.
+> **Demora en la primera apertura (Windows):** los archivos HTML con bloques `<script>` grandes, descargados desde un `.zip`, pueden activar un escaneo único de **Windows Defender / SmartScreen**. **No es un bloqueo** — la primera apertura solo tarda unos segundos más. Las siguientes aperturas son instantáneas.
 
-\---
+---
 
 ## 🧭 Funciones
 
@@ -83,7 +93,7 @@ Eso es todo — la app se abre directamente en tu navegador y funciona completam
 
 Sin cuenta, sin servidor, sin analíticas. Todo el progreso vive en el **almacenamiento local** de tu navegador y nunca sale de tu dispositivo.
 
-\---
+---
 
 ## 🌐 Alfabetos compatibles
 
@@ -96,7 +106,7 @@ Sin cuenta, sin servidor, sin analíticas. Todo el progreso vive en el **almacen
 
 Los carteles de carretera y frontera se construyen con **lugares reales** de cada país — ciudades, unidades administrativas (regiones, provincias, óblasts…) y puntos de interés reales, no marcadores inventados.
 
-\---
+---
 
 ## 📁 Estructura del proyecto
 
@@ -104,7 +114,7 @@ Los carteles de carretera y frontera se construyen con **lugares reales** de cad
 georeader/
 ├── GeoReader.html            ← La app — haz doble clic para ejecutarla
 ├── README.md
-├── README\_es.md
+├── README_es.md
 └── assets/
     ├── js/
     │   └── georeader-data.js ← Todos los datos de alfabetos, lugares, carteles e IPA
@@ -115,7 +125,7 @@ georeader/
 
 Todo lo que la app necesita —código, datos y multimedia— viene en esta carpeta. No hay nada que compilar ni que instalar.
 
-\---
+---
 
 ## 🙏 Créditos y fuentes de datos
 
@@ -125,15 +135,14 @@ Todo lo que la app necesita —código, datos y multimedia— viene en esta carp
 
 GeoReader está diseñado y mantenido por **DasWeißeKaninchen**.
 
-\---
+---
 
 ## ❤️ Apoyo
 
 Si GeoReader te resulta útil, toca el botón **❤️** dentro de la app — también hay una opción **PIX** (código QR) para apoyo directo.
 
-\---
+---
 
 ## 📄 Licencia
 
 GeoReader es **software libre** distribuido bajo la [**GNU Affero General Public License v3.0**](https://www.gnu.org/licenses/agpl-3.0.html) (AGPL-3.0).
-
